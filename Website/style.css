@@ -1,0 +1,83 @@
+html {
+    background-color: #dae3f8;
+}
+
+body {
+    width: 1500px;
+}
+
+header{
+    font-size: 18px;
+}
+
+li{
+    list-style: none;
+}
+
+nav {
+    font-size: 22px;
+}
+
+figure {
+    padding: 15px; 
+    margin-right: 10px; 
+    margin-bottom: 10px; 
+}
+
+figcaption {
+    font-size: 22px;
+}
+
+.Text {
+    font-size: 20px;
+}
+
+.MainPicter {
+    margin-left: 500px;
+}
+
+.Contacts {
+    text-align: center;
+    font-size: 20px;    
+}
+
+.Map {
+    margin-left: 450px;
+    margin-top: 15px;
+}
+
+.Pic_1{
+    margin-left: 50px;
+}
+
+.Pic_2{
+    margin-left: 550px;
+    margin-top: -670px;
+}
+
+.Pic_3{
+    margin-left: 1050px;
+    margin-top: -670px;
+}
+
+.Pic_code{
+    margin-left: 550px;
+}
+
+.Pic_python{
+    margin-left: 50px;
+}
+
+.Pic_CSharp{
+    margin-left: 550px;
+    margin-top: -475px;
+}
+
+.Pic_html{ 
+    margin-left: 1050px;
+    margin-top: -400px;
+}
+
+.border {
+    border: 3px solid #116062;
+}
