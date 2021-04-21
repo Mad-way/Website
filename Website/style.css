@@ -16,6 +16,8 @@ li{
 
 nav {
     font-size: 22px;
+    display: flex;
+    justify-content: space-between;
 }
 
 figure {
@@ -26,6 +28,10 @@ figure {
 
 figcaption {
     font-size: 22px;
+}
+
+a{
+    text-decoration-line: none;
 }
 
 .Text {
@@ -80,4 +86,23 @@ figcaption {
 
 .border {
     border: 3px solid #116062;
+}
+
+ul li
+{
+  float:left;
+  padding:5px;
+}
+ul li a
+{
+  padding:5px 10px;
+	color:#666666;
+	text-decoration:none;
+	font-size:18px;
+  background:#FFFFFF;
+}
+ul li a:hover
+{
+   background:black;
+   color:white;
 }
